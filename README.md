@@ -9,3 +9,8 @@ Contributions
 
 Anyone is welcome to ask for help, point out problems and even suggest new stuff or fixes.
 Fork the project, make your change and then send a pull request to merge it back into the main repo.
+
+Other Stuff
+-----------
+
+There will be other languages and topics added to this repo at some point in the future.
